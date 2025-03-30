@@ -10,7 +10,8 @@ O usuário pode pesquisar pelo nome do Pokémon e visualizar detalhes como nome,
 
 
 ### Imagens:
-<img src="/public/readme1.png"  />
+![image](https://github.com/user-attachments/assets/54a46ae0-5758-4318-a167-7611626ac4da)
+
 <img src="/public/readme2.png" />
 <img src="/public/readme3.png"  />
 
